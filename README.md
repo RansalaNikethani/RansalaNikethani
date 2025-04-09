@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ransalanikethani&label=Profile%20views&color=0e75b6&style=flat" alt="ransalanikethani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ransalanikethani" alt="ransalanikethani" /></a> </p>
-
 - 🔭 I’m currently working on **Intern's Performance Monitoring System**
 
 - 🌱 I’m currently learning **React, Angular, Tailwind CSS, Next.js**
@@ -23,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ransala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ransala" height="30" width="40" /></a>
 <a href="https://dribbble.com/ransala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ransala" height="30" width="40" /></a>
 <a href="https://www.behance.net/ransala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ransala" height="30" width="40" /></a>
 </p>
